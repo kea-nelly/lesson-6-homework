@@ -1,6 +1,7 @@
 body {
   background: #f9f7fe;
   font-family: "Roboto", sans-serif;
+  text-align: center;
 }
 
 a {
@@ -20,7 +21,10 @@ header {
   border-bottom: 1px solid #f9f7fe;
   padding-bottom: 30px;
 }
-
+form {
+  display: block;
+  margin-top: 0em;
+}
 .search-input {
   background-color: #f9f7fe;
   border: none;
